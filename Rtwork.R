@@ -32,3 +32,4 @@ ggplot(DAT, aes(x=Year, y=Value, fill=Group )) +
     legend.position="none",
     panel.border = element_blank(),
     panel.background = element_blank())
+
