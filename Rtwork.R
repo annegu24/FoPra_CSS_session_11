@@ -33,3 +33,6 @@ ggplot(DAT, aes(x=Year, y=Value, fill=Group )) +
     panel.border = element_blank(),
     panel.background = element_blank())
 
+
+
+test
